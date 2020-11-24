@@ -1,0 +1,33 @@
+/*
+ * All Platforms
+ */
+
+ion-slides {
+  --bullet-background-active: white;
+  --bullet-background: white;
+  height: calc(200px + var(--ion-safe-area-top));
+
+  ion-slide {
+    padding: 0;
+    margin: 0;
+
+    a, img {
+      width: 100%;
+      object-fit: cover;
+    }
+  }
+}
+
+/*
+ * Material Design
+ */
+
+.md {
+}
+
+/*
+ * iOS
+ */
+
+.ios {
+}

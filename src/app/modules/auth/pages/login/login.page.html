@@ -1,0 +1,36 @@
+<ion-content class="ion-padding">
+
+  <form [formGroup]="form">
+
+    <ion-list>
+      <ion-item>
+        <ion-label position="floating">Usuario</ion-label>
+        <ion-input formControlName="email" type="text" required></ion-input>
+      </ion-item>
+
+      <ion-item>
+        <ion-label position="floating">Contraseña</ion-label>
+        <ion-input formControlName="password" type="password" required></ion-input>
+      </ion-item>
+    </ion-list>
+
+    <ion-grid class="ion-padding-top">
+
+      <ion-row class="ion-justify-content-center">
+        <ion-col size="auto">
+          <ion-button [disabled]="form.invalid"
+                      (click)="onSubmit()"
+                      type="submit"
+                      color="primary"
+                      shape="round"
+                      fill="outline">
+            Iniciar Sesión
+          </ion-button>
+        </ion-col>
+      </ion-row>
+
+    </ion-grid>
+
+  </form>
+
+</ion-content>

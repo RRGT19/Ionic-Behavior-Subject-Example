@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PlazaDeLaSalud</string>
+    <string name="title_activity_main">PlazaDeLaSalud</string>
+    <string name="package_name">com.plazadelasalud</string>
+    <string name="custom_url_scheme">com.plazadelasalud</string>
+</resources>

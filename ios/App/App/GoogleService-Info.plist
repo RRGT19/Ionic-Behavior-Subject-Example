@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>127001692872-lqvu807chlciusvpclqat5lfkgrv89ev.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.127001692872-lqvu807chlciusvpclqat5lfkgrv89ev</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDH9w0daVZi6MONqX_wWxR_ezn1IcsUEuY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>127001692872</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.plazadelasalud.mobile.do</string>
+	<key>PROJECT_ID</key>
+	<string>plazadelasalud-1b7d3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>plazadelasalud-1b7d3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:127001692872:ios:a982576ca40e3c57</string>
+	<key>DATABASE_URL</key>
+	<string>https://plazadelasalud-1b7d3.firebaseio.com</string>
+</dict>
+</plist>

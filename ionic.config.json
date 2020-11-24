@@ -1,0 +1,7 @@
+{
+  "name": "PlazaDeLaSalud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

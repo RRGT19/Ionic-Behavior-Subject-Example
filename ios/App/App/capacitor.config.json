@@ -1,0 +1,19 @@
+{
+  "appId": "com.plazadelasalud",
+  "appName": "PlazaDeLaSalud",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    },
+    "PushNotifications": {
+      "presentationOptions": [
+        "sound",
+        "alert"
+      ]
+    }
+  },
+  "cordova": {}
+}
